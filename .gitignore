@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# 테스트용 이미지와 결과물은 저장소에 포함하지 않는다 (저작권 보호)
+sample/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.tiff
+output_nobg/
+results/
+
+# Claude Code 로컬 설정
+.claude/
